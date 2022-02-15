@@ -1,0 +1,1 @@
+INSERT INTO alumnos (nombre, apellido, dni, email, telefono, direccion, cp) VALUES("Sergio", "Añon", "325512A", "sa@email.com", 45441, "Plaza Martorell 2", 54362);
